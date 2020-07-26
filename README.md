@@ -1,4 +1,4 @@
-# Unblock [[![Build Status](https://travis-ci.com/anishathalye/unblock.svg?branch=master)](https://travis-ci.com/anishathalye/unblock)]
+# Unblock
 
 Unblock is a tiny utility to make shell pipes behave as if they have unlimited
 buffering.
