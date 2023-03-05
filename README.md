@@ -44,5 +44,5 @@ go get github.com/anishathalye/unblock
 
 ## License
 
-Copyright (c) 2020 Anish Athalye (me@anishathalye.com). Released under the MIT
+Copyright (c) Anish Athalye (me@anishathalye.com). Released under the MIT
 license. See [LICENSE.md](LICENSE.md) for details.
