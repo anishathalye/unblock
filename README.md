@@ -1,4 +1,4 @@
-# Unblock [![Build Status](https://github.com/anishathalye/unblock/workflows/CI/badge.svg)](https://github.com/anishathalye/unblock/actions?query=workflow%3ACI)
+# Unblock [![Build Status](https://github.com/anishathalye/unblock/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/unblock/actions/workflows/ci.yml)
 
 
 Unblock is a tiny utility to make shell pipes behave as if they have unlimited
